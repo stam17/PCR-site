@@ -1,0 +1,148 @@
+/** HEADER **/
+.btn-secondary {
+  background-color: #f8f9fa !important;
+  border-color: #f8f9fa !important;
+  color: rgb(124, 124, 125) !important;
+  font-size: 20px !important;
+  line-height: 22px !important;
+}
+.btn-secondary:hover {
+  color: #212529 !important;
+}
+.navbar {
+  margin: 0px;
+}
+
+.nav-item {
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+  text-align: center;
+  line-height: 20px;
+  margin-top: 5px;
+}
+
+#homebutton {
+  font-family: 'Pacifico', cursive;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-top:0px;
+  font-size: 24px;
+  min-width: 120px;
+}
+
+/* END HEADER */
+
+/** BODY **/
+
+body {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+hr.style3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-top: 1px dashed #8c8b8b;
+}
+
+#notice {
+  font-size: 14px;
+  text-align: center;
+  font-style: italic;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.twoboxes {
+  border: 1px solid gray;
+  background-color: #E7E7E7;
+  padding: 10px;
+}
+.twoboxes a {
+  color: black;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  margin: 30px 0px 30px 0px;
+}
+h2 {
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  font-size: 26px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.case {
+  font-size: 18px;
+  font-style: italic;
+}
+.case-cap {
+  margin-top: 6px;
+  margin-right: 60px;
+  margin-left: 30px;
+}
+.pgsection {
+  margin-bottom: 30px;
+}
+
+#title {
+  font-family: 'Pacifico', cursive;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 4em;
+  text-align: center;
+}
+
+#voucher {
+  padding-inline-start: 0px;
+}
+
+/* END OF BODY */
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  .nav-item {
+    padding-right: 45px;
+  }
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .nav-item {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .dropdown-item{
+    font-size: 14px;
+  }
+
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .nav-item {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .dropdown-item {
+    font-size: 14px;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .nav-item {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .dropdown-item {
+    font-size: 14px;
+  }
+}
+
