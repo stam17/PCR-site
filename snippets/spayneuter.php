@@ -1,7 +1,5 @@
-<div id="main-content" class="container">
-		<h1>Low-Cost Vouchers</h1>
-
-		<p>In our view, no companion cat should remain unaltered, and the best bet to seeing that a reality is to remove the financial obstacle for the pet owner.  To that end, Purrfect Cat Rescue has partnered with local veterinarians to offer the public low-cost spay and neuter vouchers.</p>  
+<h1>Low-Cost Vouchers</h1>
+<p>In our view, no companion cat should remain unaltered, and the best bet to seeing that a reality is to remove the financial obstacle for the pet owner.  To that end, Purrfect Cat Rescue has partnered with local veterinarians to offer the public low-cost spay and neuter vouchers.</p>  
 
 		There are two types of vouchers:
 		<ol>
@@ -47,6 +45,4 @@
 		<a href="forms\voucher_protocol.pdf"><img src="images\icons8-office-80.png" title="Voucher Info"></a>
 	<p>
 		
-	</p>
-
-</div>
+</p>

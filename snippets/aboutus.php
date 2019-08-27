@@ -1,5 +1,4 @@
-<div id="main-content" class="container">
-    <h1>About Us</h1>
+<h1>About Us</h1>
     <h3>What is Purrfect Cat Rescue?</h3>
     <div class="pgsection">
     Purrfect Cat Rescue is an all-volunteer non-profit (EIN #38-3729165). Our main focus is the adoption of home-fostered (we do not have a shelter or facility) cats & kittens and providing low-cost spay & neuter to the public. ​We currently have only 8 foster homes to care for all the cats and kittens in our program. We do not have any association with Tri-City Animal Services, any local shelters, nor do we receive local, state or national funding. We are a small, private organization with limited scope, serving Fremont, Newark & Union City. 
@@ -18,6 +17,4 @@
         </p>
         <p>A Memorial to past president Jean Kneisler.</p>
         <a href="contactus.html"> <b>Contact Us</b></a>
-
     </div>
-  </div>

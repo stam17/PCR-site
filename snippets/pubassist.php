@@ -1,9 +1,8 @@
-<div id="main-content" class="container">
-
-	​<h1>Public Assist Adoption Program</h1>
+<h1>Public Assist Adoption Program</h1>
 
 	<p>Often, members of the public come to us with cats and kittens they have found, hoping we can help to place them in homes. While we would like to take in all the cats/kittens in need, we are a small rescue with both limited reach and foster homes. It's important that the number of cats we bring into the program doesn’t overwhelm our foster homes and is in keeping with the current local rate of animal adoptions.</p>
 
+	<br>
 
 	<h3>TERMS</h3>
 	<i>PLEASE READ FULLY:</i> 
@@ -24,5 +23,3 @@
 	<p>Animals in need of immediate re-homing cannot be given to and fostered by Purrfect Cat Rescue. We must refer people in this situation to the East Bay SPCA and Humane Society Silicon Valley, both of which have Owner Surrender programs and do their best to accommodate people in need of re-homing companion animals. Be aware that there is generally a fee to use these services.</p>
 
 	<a href="forms\public_assist_form.pdf"><img src="images\icons8-office-80.png" title="Public Assist Form"></a>
-
-</div>

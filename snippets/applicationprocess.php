@@ -1,5 +1,3 @@
-<div id="main-content" class="container">
-
 <h1>Application Process</h1>
 
 <p>
@@ -13,9 +11,13 @@
 
 <h3>Adoption Process</h3>
 
-<p>We have done our best to make adopting through Purrfect Cat Rescue a simple and rewarding experience. All cats & kittens in our program have been spayed/neutered, given two 3-in-1 (FVRCP) vaccinations, treated preventatively for fleas and worms, and fostered in caring homes so they are ready to move into yours.</p>
+<p>We have done our best to make adopting through Purrfect Cat Rescue a simple and rewarding experience. All cats and kittens are fostered in caring homes so they are ready to move into yours.</p>
 
-
+Here is the medical care we provide them:
+<li>Spay/neuter</li>
+<li>Two 3-in-1 (FVRCP) vaccinations</li>
+<li>Preventative treatment for fleas with Bravecto or Revolution (and Drontal for worms if deemed necessary)</li>
+<br>
 <p>Available cats and kittens can be seen weekly at our adoption fairs. You will need to fill out an adoption application (download available at bottom of this page), and, upon approval, agree to the terms of the Purrfect Cat adoption contract.  The current adoption fee is $110 and is a fully tax deductible donation that ensures our work continues. </p>
 
 <hr class="style3">
@@ -38,5 +40,3 @@ Our online application is available <a href="adoptioninfo_app.html">here</a>. If
 </p>
 
 <a href="forms\adoption_contract.pdf"><img src="images\icons8-office-80.png" title="Adoption Contract"></a>
-
-</div>
