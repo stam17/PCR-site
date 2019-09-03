@@ -10,14 +10,14 @@
   text-shadow: 0.5px 0.5px gray;
 }
 .btn-secondary:hover {
-  background-color: #f7ecd5;
+  background-color: #f7ecd5 !important;
   border: none; 
   color: #212529 !important;
 }
 .navbar {
   margin: 0px;
   background-color: #f7ecd5 !important;
-  box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+  box-shadow: 0px 0px 8px 3px rgba(0,0,0,0.25);
 }
 
 .nav-item {
@@ -43,17 +43,48 @@
 
 /** BODY **/
 
+a h1 {
+  color: black;
+}
+
+#location {
+  font-size: 18px;
+}
+
+.eventtitle {
+  font-size: 28px;
+  margin-bottom: 5px !important;
+}
+
+.eventsbody {
+  margin-top: 0px;
+  text-align: center;
+}
+
+.event {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+}
+
+.homeheader {
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 30px;
+}
+
 .dropdown-menu {
   background-color: #f7ecd5;
 }
 
 #kittens{
   margin-top: -50px;
-  margin-left: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }  
 
 body {
-  background-color: #d5ecf7;
+  background-color: #e4f1f5;
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
 }
@@ -69,15 +100,7 @@ hr.style3 {
   text-align: center;
   font-style: italic;
   margin-top: 20px;
-  margin-bottom: 0px;
-}
-.twoboxes {
-  background-color: #d5ecf7;
-  padding: 10px;
-  margin-left: 10px;
-}
-.twoboxes a {
-  color: black;
+  margin-bottom: 20px;
 }
 
 #fblink {
@@ -85,17 +108,11 @@ hr.style3 {
   color: black;
 }
 
-.twoboxes > h1 {
-  text-align: center;
-  margin-top: 8px;
-  margin-bottom: 10px;
-}
-
 h1 {
   font-family: 'Pacifico', cursive;
   text-shadow: 1px 1px gray;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 40px;
+  margin-bottom: 50px;
 }
 h2 {
   font-family: 'Roboto Slab', serif;
@@ -115,13 +132,10 @@ h3 {
   margin-right: 60px;
   margin-left: 30px;
 }
-.pgsection {
-  margin-bottom: 30px;
-}
 
 #title {
   font-family: 'Pacifico', cursive;
-  margin-top: 30px;
+  margin-top: 40px;
   margin-bottom: 20px;
   font-size: 4em;
   text-align: center;
@@ -129,6 +143,16 @@ h3 {
 
 #voucher {
   padding-inline-start: 0px;
+}
+
+section {
+  margin-bottom: 40px;
+/*  
+  border-radius: 5px;
+  border: 5px gray;
+  background-color: #f2fafc;
+  box-shadow: 0px 0px 10px 1px #fce5b3;
+  */
 }
 
 /* END OF BODY */
@@ -139,8 +163,8 @@ footer {
   height: 150px;
   padding-top:20px;
   margin-top: 10px;
-  box-shadow: 0 -1px 5px 1px rgba(0,0,0,0.25);
-  font-family:  'Roboto Slab', serif;
+  box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.25);
+  font-family: 'Roboto Slab', serif;
 }
 
 /********** Large devices only **********/
@@ -164,8 +188,8 @@ footer {
     font-size: 14px;
   }
   #kittens {
-    width: 400px;
-    height: 330px;
+    width: 350px;
+    height: 300px;
   }
 
 }
@@ -181,9 +205,9 @@ footer {
     font-size: 14px;
   }
   #kittens {
-    width: 400px;
-    height: 330px;
-    margin-left: -10px;
+    width: 350px;
+    height: 300px;
+    margin-left: -20px;
   }
 }
 

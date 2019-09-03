@@ -37,7 +37,13 @@ $(document).ready(function() {
   $('.btn-secondary').click(function(){
     var link = 'snippets/' + $(this).attr('id') + ".php";
     var link1 = $(this).attr('id') + ".php"
+    if (link != 'snippets/dropdownMenu2.php') {
+      
       $('#main-content').load(link);
+    } else {
+      console.log('failed');
+    }
+      
       // window.history.pushState($(this).attr('id'), 'Title', link1);
   });
 
